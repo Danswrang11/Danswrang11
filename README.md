@@ -2,7 +2,6 @@
 👋 Hello! My name is Danswrang Basumatary. <br>I am a recent graduate with a B.Tech in Computer Science and Engineering, aspiring to become a data analyst. <br>I have a strong foundation in <br>Python 🐍, <br>SQL 🗄️, <br>MS Excel 📊, and <br>Web Development 🌐, <br>which I use to turn data into actionable insights and build dynamic web applications.<br><br>🔍 I am passionate about exploring data, finding patterns, and helping organizations make data-driven decisions. I am continuously learning and staying updated with the latest trends and technologies in the field of data analytics.<br><br>📁 Feel free to check out my repositories to see some of the projects I’ve worked on. Let’s connect and collaborate on exciting data projects!
 🌱 I’m currently learning Data Analysis.
 👀 I’m interested in improving skills
-💞️ I’m looking to collaborate on ...
 
 
 ## 🌐 Socials:
